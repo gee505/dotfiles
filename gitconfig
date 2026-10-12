@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = arseniimokrov@gmail.com
+	name = Arsenii Mokrov
